@@ -5,7 +5,7 @@ Script para añadir lineas a ficheros o para borrarlas
 El archivo el obligatorio (-f file).
 
 Programa que permite añadir/sobreescribir lineas de un fichero de una forma sencilla.
-
+```
 Usage:
         ./add_line.sh -f Ruta_Archivo -t texto_nuevo -l numero_linea
 
@@ -31,3 +31,4 @@ En caso de querer añadir más de una línea, debes separarlas por '\n'
                         linea
                         Linea otra
                         ...
+```
